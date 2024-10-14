@@ -1,6 +1,28 @@
 {
   "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.67.3",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.26.0"
-  }
+  },
+  "name": "assistant-bot",
+  "type": "commonjs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fisi-proyects/FisiHelp-bot-asistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fisi-proyects/FisiHelp-bot-asistant/issues"
+  },
+  "homepage": "https://github.com/Fisi-proyects/FisiHelp-bot-asistant#readme"
 }
